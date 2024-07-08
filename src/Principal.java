@@ -16,7 +16,7 @@ public class Principal {
         monedas.put("USD", new Moneda("USD", "Dólar estadounidense"));
         monedas.put("GTQ", new Moneda("GTQ", "Quetzal guatemalteco"));
         monedas.put("MXN", new Moneda("MXN", "Peso mexicano"));
-        
+        monedas.put("EUR", new Moneda("EUR", "Euro"));
     }
 
     public static void main(String[] args) {
